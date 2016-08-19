@@ -62,8 +62,11 @@
             <!-- /.dropdown -->
         </ul>
         <!-- /.navbar-top-links -->
-
-        <div class="navbar-default sidebar" role="navigation">
+        </nav>
+        <div class="row">
+                
+                <div class="col-md-2">
+                     <div class="navbar-default sidebar" role="navigation">
             <div class="sidebar-nav navbar-collapse">
                 <ul class="nav" id="side-menu">
                     <li class="sidebar-search">
@@ -223,10 +226,16 @@
             <!-- /.sidebar-collapse -->
         </div>
         <!-- /.navbar-static-side -->
-    </nav>
 
-    <div id="page-wrapper">
-        <div class="container-fluid">
+
+
+                </div>
+                <div class="col-md-10">
+                    
+
+
+        <div id="page-wrapper">
+                <div class="container-fluid">
             <div class="row">
                 <div class="col-lg-12">
                     <h1 class="page-header">Dashboard</h1>
@@ -235,10 +244,17 @@
                 <!-- /.col-lg-12 -->
             </div>
             <!-- /.row -->
+                </div>
+    
+        </div>
+        <!-- /#page-wrapper -->
         </div>
 
-    </div>
-    <!-- /#page-wrapper -->
+        </div>
+       
+    
+
+
 
 </div>
 <!-- /#wrapper -->
